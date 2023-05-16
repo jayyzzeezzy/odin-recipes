@@ -1,2 +1,2 @@
 # odin-recipes
-This website will showcase the recipe to one of my favorite dishes, _Dry Rub Chicken Thighs_. I will be using HTML to create this website. 
+This website will showcase some of my favorite recipes. They are easy to make and take little to no time to prep. The language I will be using to make this website is HTML. 
